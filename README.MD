@@ -1,5 +1,5 @@
-Repositório destinado aos meus estudos em expressões regulares. 
-
+Esse repositório é destinado aos meus estudos em expressões regulares. 
+Primeiramente, será feito um breve estudo das aulas encontradas em [Free Code Camp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/), especificamente na parte de expressões regulares. Além disso, alguns cotneúdos e explicações são retirados do [REGEXR](https://regexr.com/).
 ## Regular Expressions (Regex)
 
 Expressões regulares ou **regex** são usadas nas linguagens de programação para encontrar determinadas partes de texto (string), através da criação de padrões específicos.
