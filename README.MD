@@ -3,15 +3,16 @@ Esse repositório é destinado aos meus estudos em expressões regulares.
 Primeiramente, será feito um breve estudo das aulas encontradas em [Free Code Camp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/), especificamente na parte de expressões regulares. Além disso, alguns cotneúdos e explicações são retirados do [REGEXR](https://regexr.com/).
 
 ---
+
 ### Introdução
 
-Expressões regulares ou **regex** é um método conciso e flexível para identificação de caracteres específicos, palavras e/ou frases em *strings.* As regex possuem uma maneira padrão de escrita e é entendível por quase qualquer linguagem de programação.
+De maneira geral, esse artigo traz um resumo do mini-curso sobre expressões regulares disponibilizado gratuitamente em FreeCodeCamp. O link para esse curso está disponibilizado no final desse artigo, no tópico referências.
 
-Nesse artigo, iremos discorrer a respeito das regex e introduzir os comandos e padrões básicos dessa ferramenta
+Expressões regulares ou **regex** é um método conciso e flexível para identificação de caracteres específicos, padrões, palavras e/ou frases em *strings*. As regex possuem uma maneira padrão de escrita, compatível com muitas linguagens de programação. Neste estudo, utilizaremos como base a linguagem JavaScript.
 
 ---
 
-### Matches perfeitos e o método test(
+### Matches perfeitos e o método test()
 
 Por exemplo, para encontrar a palavra "galho" na frase: "Cada macaco em seu galho", podemos usar a regex `/galho/` para fazer esse match. Aqui, uma observação importante é notar que não é necessário que as palavras as serem buscadas estejam entre aspas como geralmente usamos essa notação para descrever strings em linguagens de programação.
 
